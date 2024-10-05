@@ -1,0 +1,15 @@
+.current-time {
+    position: sticky;
+    bottom: 0;
+    padding: 2rem;
+    z-index: 999;
+    background: #272b35;
+    font-size: 1.5rem;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+    padding-inline: 1em;
+    border-radius: 1em;
+}
